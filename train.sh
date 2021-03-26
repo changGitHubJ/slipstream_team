@@ -1,0 +1,15 @@
+python3 train.py 0
+python3 train.py 1
+python3 train.py 2
+python3 train.py 3
+python3 train.py 4
+python3 train.py 5
+python3 train.py 6
+python3 train.py 7
+python3 train.py 8
+python3 train.py 9
+python3 train.py 10
+python3 train.py 11
+python3 train.py 12
+python3 train.py 13
+python3 train.py 14
